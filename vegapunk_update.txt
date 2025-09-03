@@ -1,2 +1,2 @@
-25.9.1
+25.9.2
 https://github.com/MarcosOtilio/releases/releases/download/Stable/Vegapunk.Tools.exe
