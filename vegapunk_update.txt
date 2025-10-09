@@ -1,2 +1,2 @@
-25.10.7
+25.10.8
 https://github.com/MarcosOtilio/releases/releases/download/Stable/setup.exe
