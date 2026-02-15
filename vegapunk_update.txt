@@ -1,2 +1,2 @@
-25.10.11
+26.02.15
 https://github.com/MarcosOtilio/releases/releases/download/Stable/setup.exe
