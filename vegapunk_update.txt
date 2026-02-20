@@ -1,2 +1,2 @@
-26.02.16
+26.02.19
 https://github.com/MarcosOtilio/releases/releases/download/Stable/setup.exe
