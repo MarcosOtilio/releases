@@ -1,0 +1,8 @@
+{
+  "v": 1,
+  "kdf": "argon2id",
+  "cipher": "xchacha20poly1305",
+  "salt_b64": "yrQsuwD92KKJHZxKJDzYfQ==",
+  "nonce_b64": "p1nyu1NHumg2cvOLPkjyiHbEh0Y53R+K",
+  "ciphertext_b64": "H3A8OcOXrzoVT563dl4Sz9JMPKNCl3lrOZGjirDYRfnVbva+xfdVrBASdgnXtr7NSKSdirPZpzI1S5RVY1SRAsfBiWz7Cch72DOjJDKq"
+}
